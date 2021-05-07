@@ -1,2 +1,5 @@
 # Personal Website
-https://angeld2000.github.io/personal_website/
+Link: https://angeld2000.github.io/personal_website/
+
+## Things Learned
+Tbc
