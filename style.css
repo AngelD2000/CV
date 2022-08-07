@@ -21,10 +21,11 @@ hr {
 
 .introduction-container h1 {
     margin-top: 0;
+    padding-top: 20%;
     font-family: 'Sacramento', cursive;
-    font-size: 3.5rem;
+    font-size: 4rem;
     color: #11999E;
-    line-height: 6;
+    /* line-height: 4.5; */
 }
 
 h2 {
@@ -40,12 +41,59 @@ h3 {
     color:#11999E
 }
 
+h4{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1rem;
+    color:#11999E
+
+}
+
 .sun {
     position: absolute;
     right: 450px;
     top: 10px;
 }
 
+.connect-icons{
+    position: relative;
+    top: 100px;
+}
+
+.fa {
+    padding: 30px;
+    font-size: 30px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+    border-radius: 50%;
+  }
+  
+
+.fa:hover {
+    opacity: 0.7;
+    text-decoration: none;
+}
+
+.fa-linkedin {
+    background: #007bb5;
+    color: white;
+    margin-right: 20px;
+}
+
+.fa-github {
+    background: #ffffff;
+    color: rgb(0, 0, 0);
+    margin-right: 20px;
+}
+
+.fa-envelope{
+    background: #fefefe;
+    color: rgb(195, 34, 34);
+    margin-right: 20px;
+}
+  
+  
+  
 
 /*About Me, Skill*/
 .profile{
@@ -61,6 +109,7 @@ h3 {
 .profile-img{
     width: 40%;
     margin: auto;
+    padding: 30px;
 }
 
 .skills {
