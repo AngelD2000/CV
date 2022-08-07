@@ -93,13 +93,21 @@ h4{
 }
   
   
-  
 
 /*About Me, Skill*/
 .profile{
     text-align: center;
     width:50%;
     margin: auto;
+    height: 100%;
+    padding-top: 10px;
+}
+
+.profile h1{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 3rem;
+    color: #11999E;
+    padding: 10px;
 }
 
 #intro{
@@ -136,6 +144,11 @@ h4{
 .table {
     border-spacing: 30px;
 }
+
+#skill-name{
+    text-align: left;
+}
+
 
 /*Experience*/
 
