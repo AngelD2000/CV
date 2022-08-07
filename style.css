@@ -75,20 +75,20 @@ h4{
 }
 
 .fa-linkedin {
-    background: #007bb5;
-    color: white;
+    background: #ffffff;
+    color: rgb(9, 30, 108);
     margin-right: 20px;
 }
 
 .fa-github {
     background: #ffffff;
-    color: rgb(0, 0, 0);
+    color: rgb(9, 30, 108);
     margin-right: 20px;
 }
 
 .fa-envelope{
     background: #fefefe;
-    color: rgb(195, 34, 34);
+    color: rgb(9, 30, 108);
     margin-right: 20px;
 }
   
