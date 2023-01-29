@@ -15,7 +15,7 @@ hr {
 /*The very first things that viewers look at*/
 
 .introduction-container {
-    background-color: #e3fdfd;
+    background-color: #263637;
     height: 100%;
 }
 
@@ -24,7 +24,7 @@ hr {
     padding-top: 20%;
     font-family: 'Sacramento', cursive;
     font-size: 4rem;
-    color: #11999E;
+    color: #ffffff;
     /* line-height: 4.5; */
 }
 
@@ -44,7 +44,7 @@ h3 {
 h4{
     font-family: 'Montserrat', sans-serif;
     font-size: 1rem;
-    color:#11999E
+    color:#0b0b0b
 
 }
 
@@ -194,7 +194,7 @@ h4{
 }
 
 .experience #title{
-    color: #e3fdfd;
+    color: #ffffff;
 }
 
 /* The actual timeline (the vertical ruler) */
@@ -306,13 +306,13 @@ h4{
 
 .bottom-container{
     padding: 10px;
-    background-color: #a6e3e9;
+    background-color: #263637;
 }
 
 
 .bottom-container a {
     margin: 10px;
-    color: #11999E;
+    color: #ffffff;
     font-family: 'Montserrat', sans-serif;
     text-decoration: none;
     font-size: 1rem;
